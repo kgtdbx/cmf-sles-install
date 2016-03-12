@@ -1,4 +1,6 @@
 #!/bin/bash
+# specific machine name permissions may be required
+# repeat this process if connection test fails during CM install
 
 while read node
 do
